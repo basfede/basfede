@@ -1,6 +1,7 @@
 # Hi, I'm Federico Fernández <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 Welcome to my personal space! 🚀
+I am from Buenos Aires, Argentina and I am 23 years old. In addition to programming, I like video games and listening to music
 
 
 ---
